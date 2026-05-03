@@ -6,3 +6,7 @@ if __name__ == "__main__":
     main()
 
 x = 1 + 2
+
+def foo():
+    x = 10
+    return x
