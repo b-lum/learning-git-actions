@@ -5,6 +5,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-def foo() :
-	x = 10
-	return x
+x = 1 + 2
+
+def foo():
+    x = 10
+    return x
